@@ -1,0 +1,21 @@
+ww1306
+*   1367402 8nd commit (merge master and master_2)
+|\  
+| *   1ccd22a 6nd commit (merge master_2 and master)
+| |\  
+| * | e7b8aa6 4nd commit (1st on master_2)
+* | |   071f4cb 7nd commit (merge master and branch_1_1)
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 145dbf4 3rd commit (1st on branch_1_1)
+* | |   5a7d530 5nd commit (merge master and branch_1)
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * b504c8f 2nd commit (1st on branch_1)
+* | d7b4688 3rd commit (2nd on master)
+|/  
+* a342eb0 1st on master
